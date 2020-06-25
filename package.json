@@ -1,0 +1,31 @@
+{
+  "name": "bci2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "json-sql-builder2": "^1.0.24",
+    "mysql": "^2.18.1",
+    "puppeteer-core": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cahyo6012/bci2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cahyo6012/bci2/issues"
+  },
+  "homepage": "https://github.com/cahyo6012/bci2#readme"
+}
